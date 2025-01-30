@@ -1,28 +1,19 @@
-# Calorie Calculator
+# კალორიის გამოთვლა: მარტივი კალკულატორი
 
-A simple, user-friendly web-based calorie calculator that estimates your daily caloric needs based on weight, height, age, and activity level. The calculator uses the Mifflin-St Jeor equation to determine your Basal Metabolic Rate (BMR) and adjusts it with an activity factor to estimate your total daily calorie requirement.
+მარტივი, მომხმარებლისთვის მოსახერხებელი ვებ კალორიების კალკულატორი, რომელიც აფასებს თქვენს დღიურ კალორიულ საჭიროებებს წონის, სიმაღლის, ასაკისა და აქტივობის დონის მიხედვით. ეს არის  fiber.ge-ის [კალორიის კალკულატორის](https://fiber.ge/kaloriebis-kalkulatori/) მსგავსი, უფრო გამარტივებული ვერსია.
 
-## Features:
-- Easy-to-use interface for quick calorie calculation.
-- Uses the Mifflin-St Jeor equation to calculate BMR.
-- Multiple activity level options for a more personalized result.
-- Responsive design for both desktop and mobile use.
+## ფუნქციები
+- მარტივი გამოსაყენებელი ინტერფეისი კალორიების სწრაფი გაანგარიშებისთვის.
+- იყენებს Mifflin-St Jeor განტოლებას BMR-ის გამოსათვლელად.
+- აქტივობის დონის მრავალი ვარიანტი უფრო პერსონალიზებული შედეგისთვის.
+- საპასუხო დიზაინი როგორც დესკტოპის, ასევე მობილური გამოყენებისთვის.
 
-## Files Included:
-- `index.html`: The HTML structure of the webpage.
-- `style.css`: The CSS file for styling the calculator and page layout.
-- `script.js`: JavaScript for handling the logic of calorie calculation.
+## ფაილები:
+- `index.html`: ვებგვერდის HTML სტრუქტურა.
+- `style.css`: CSS ფაილი კალკულატორისა და გვერდის განლაგების სტილისთვის.
+- `script.js`: JavaScript კალორიების გამოთვლის ლოგიკის დასამუშავებლად.
 
-## How to Use:
-1. Enter your **weight** (kg), **height** (cm), and **age** (years) in the respective input fields.
-2. Select your **activity level** from the dropdown.
-3. Click the **"Calculate Calories"** button to view your estimated daily calorie intake.
-
-## Prerequisites:
-- This is a static web project and requires no server-side configuration.
-- Works in all modern browsers.
-
-## How to Set Up Locally:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/calorie-calculator.git
+## გამოყენება:
+1. შეიყვანეთ თქვენი **წონა** (კგ), **სიმაღლე** (სმ) და **ასაკი** (წლები) შესაბამის შეყვანის ველებში.
+2. აირჩიეთ თქვენი **აქტივობის დონე** ჩამოსაშლელი სიიდან.
+3. დააწკაპუნეთ ღილაკზე **"კალორიების გამოთვლა"** თქვენი სავარაუდო ყოველდღიური კალორიების მიღების სანახავად.
